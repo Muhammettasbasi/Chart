@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  challenge:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-24T13:39:21.6188843+03:00"
+    description: A Helm chart for PostgreSQL and Redis
+    digest: 534608b73ea97fbc6045640d6c7b66bb83c996da6e0f0028986807550553b1f1
+    name: challenge
+    type: application
+    urls:
+    - https://muhammettasbasi.github.io/Chart/challenge-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-24T13:39:21.6174883+03:00"
